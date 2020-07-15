@@ -8,9 +8,17 @@
     <OldToolsVersion>2.0</OldToolsVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Notificacoes\" />
-    <Folder Include="Validacoes\" />
-    <Folder Include="Services\" />
+    <Compile Remove="Interfaces\**" />
+    <Compile Remove="Notificacoes\**" />
+    <Compile Remove="Services\**" />
+    <Compile Remove="Validacoes\**" />
+    <EmbeddedResource Remove="Interfaces\**" />
+    <EmbeddedResource Remove="Notificacoes\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <EmbeddedResource Remove="Validacoes\**" />
+    <None Remove="Interfaces\**" />
+    <None Remove="Notificacoes\**" />
+    <None Remove="Services\**" />
+    <None Remove="Validacoes\**" />
   </ItemGroup>
 </Project>

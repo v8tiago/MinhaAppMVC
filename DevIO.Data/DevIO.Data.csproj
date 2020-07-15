@@ -9,7 +9,9 @@
     <ProjectGuid>{5C9D59F5-D8D1-4F2B-9705-7DDC93278A49}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="Repository\" />
+    <Compile Remove="Repository\**" />
+    <EmbeddedResource Remove="Repository\**" />
+    <None Remove="Repository\**" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\MeuDbContext.cs" />
