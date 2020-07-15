@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "n6InxZm3K5Z4WIO5jAEHsieT8wbH3igKgBa+YNQZLRC8E3iAlKPlGlo1PZJJiw+Y+CzDx2lPWEtUVdhEQR6oHA==",
+  "dgSpecHash": "BKj/K4BHVKCxCGzsr5XC9bu0ThXFeteNgO4CBUYnzLacrxU6/E24V1MMCCLKihJz6MONqxNokD+w+iEU06xXGw==",
   "success": true,
   "projectFilePath": "D:\\Projeto AspNet\\MinhaApp\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\v8tia\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.6\\microsoft.entityframeworkcore.3.1.6.nupkg.sha512",
     "C:\\Users\\v8tia\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.6\\microsoft.entityframeworkcore.abstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\v8tia\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.6\\microsoft.entityframeworkcore.analyzers.3.1.6.nupkg.sha512",
+    "C:\\Users\\v8tia\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.6\\microsoft.entityframeworkcore.relational.3.1.6.nupkg.sha512",
     "C:\\Users\\v8tia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.6\\microsoft.extensions.caching.abstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\v8tia\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.6\\microsoft.extensions.caching.memory.3.1.6.nupkg.sha512",
     "C:\\Users\\v8tia\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\microsoft.extensions.configuration.3.1.6.nupkg.sha512",

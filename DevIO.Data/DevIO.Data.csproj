@@ -9,7 +9,6 @@
     <ProjectGuid>{5C9D59F5-D8D1-4F2B-9705-7DDC93278A49}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="Mappings\" />
     <Folder Include="Repository\" />
   </ItemGroup>
   <ItemGroup>
@@ -17,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.6" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DevIO.Business\DevIO.Business.csproj" />
