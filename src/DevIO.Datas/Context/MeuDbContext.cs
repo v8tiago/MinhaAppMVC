@@ -1,7 +1,5 @@
 ﻿using DevIO.Business.Models;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using System.IO;
 using System.Linq;
 
 namespace DevIO.Data.Context
